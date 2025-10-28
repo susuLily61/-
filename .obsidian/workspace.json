@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 大纲.md",
+                "file": "操作系统/00 大纲.md",
                 "mode": "source",
                 "source": false
               },
@@ -177,9 +177,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1831314ce0644634",
+  "active": "9927c1817223018b",
   "lastOpenFiles": [
-    "00 大纲.md",
+    "操作系统/00 大纲.md",
     "计网",
     "数据库",
     "计算机组成原理",
