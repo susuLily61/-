@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "5f20d0ee22be3f1b",
+        "id": "e159f5cb2c7800c2",
         "type": "tabs",
         "children": [
           {
-            "id": "1831314ce0644634",
+            "id": "9474757c6d88dbd1",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/community-plugins.json",
-                "bFile": ".obsidian/community-plugins.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: community-plugins.json"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
         ]
@@ -177,7 +173,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1831314ce0644634",
+  "active": "bc32bf152c822820",
   "lastOpenFiles": [
     "操作系统/00 大纲.md",
     "计网",
