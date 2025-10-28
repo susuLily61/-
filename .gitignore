@@ -1,10 +1,8 @@
 
 /.obsidian/community-plugins.json
 .obsidian/plugins/obsidian-git/data.json
-/.obsidian
+/.obsidian/*
 /conflict-files-obsidian-git.md
 /.obsidian/plugins/obsidian-git/data.json
 /.obsidian/workspace.json
-/.obsidian/workspace.json
-/.obsidian/workspace.json
-/.obsidian/workspace.json
+.obsidian/workspace.json
