@@ -1,6 +1,6 @@
 [
-  "date-inserter",
   "editing-toolbar",
   "obsidian-git",
-  "obsidian-hover-editor"
+  "obsidian-hover-editor",
+  "date-inserter"
 ]
